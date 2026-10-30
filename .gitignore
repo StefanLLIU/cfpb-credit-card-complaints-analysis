@@ -1,0 +1,6 @@
+data/*.csv
+data/*.zip
+*.bak
+*.mdf
+*.ldf
+__pycache__/
